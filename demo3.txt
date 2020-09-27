@@ -1,2 +1,4 @@
 demo3.txt
 testtsetsetsetsataetaset
+testts
+这是一个测试
